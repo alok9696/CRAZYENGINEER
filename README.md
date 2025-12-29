@@ -12,7 +12,7 @@
   <a href="https://github.com/matt765/atom-animation/blob/main/CHANGELOG.md" style="text-decoration: none;">
     <img src="https://img.shields.io/badge/%20-changelog-blue?logo=readme&logoColor=white&labelColor=grey" alt="Changelog" />
   </a>   
-  <a href="https://github.com/matt765/atom-animation/releases" style="text-decoration: none;">
+  <a href="https://github.com/alok9696/crazyengineer/releases" style="text-decoration: none;">
     <img src="https://img.shields.io/github/package-json/v/matt765/atom-animation?color=green" alt="Version" />
   </a>
 </div>
